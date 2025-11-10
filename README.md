@@ -8,7 +8,7 @@
 - Samuel Tenório Caval (RM565881)
 
 - Link repositório:https://github.com/TaikaWaititi/hc-1tdsa-front-sprint.git
-- Link Vercel: https://hc-1tdsa-front-sprint-nxt7rafpq-bruno-martins-projects-0f5b7137.vercel.app
+- Link Vercel: https://hc-1tdsa-front-sprint-git-main-bruno-martins-projects-0f5b7137.vercel.app
 
 ## Visão geral
 Este projeto é a evolução da Sprint 3, adaptada para **React + Vite + TypeScript** conforme as exigências da Sprint 4 do Challenge 2025.  
